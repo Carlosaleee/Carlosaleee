@@ -1,7 +1,7 @@
 
 
-##                      ✨  CARLOS ALEXANDRE ✨ 
- 📚 Development student | 🖥️ Dev Front-end Jr | 🖥️ Analista Dados Jr.
+## CARLOS ALEXANDRE ✨| 📚 Development student | 🖥️ Dev Front-end Jr | 
+🖥️ Analista Dados Jr.
 <div align="center">
   <a href="https://github.com/Carlosaleee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosaleee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,7 +10,8 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Rafa-CSS" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+     <img align="center" alt="Rafa-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
     
   ##
  
