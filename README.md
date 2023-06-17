@@ -12,7 +12,9 @@
     <img align="center" alt="Rafa-CSS" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
      <img align="center" alt="Rafa-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
     <img align="center" alt="Rafa-CSS" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-    
+    <img align="center" alt="Rafa-CSS" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
+    <img align="center" alt="Rafa-CSS" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+  
   ##
  
 <div> 
