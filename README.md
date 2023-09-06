@@ -1,5 +1,3 @@
-
-
 ## CARLOS ALEXANDRE ✨| 📚 Development student | 🖥️ Dev Front-end Jr <br>  | 🖥️ Analista Dados Jr. | 🖥️ Dev Java Jr. 
 <div align="center">
   <a href="https://github.com/Carlosaleee">
