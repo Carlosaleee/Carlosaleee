@@ -1,4 +1,4 @@
-<h2> ✨ CARLOS ALEXANDRE ✨ - 📚 Universitário | 🖥️ Técnico em Desenvolvimento de Sistemas ✨<br> <h3>🖥️ Empreendedor ✨ | 🖥️ Developer Java Jr. | 🖥️ Assistente Analista Dados Jr. | 🖥️ Developer Web Jr.  <br><br>
+<h2> ✨ CARLOS ALEXANDRE ✨ - 📚 Universitário | 🖥️ Técnico em Desenvolvimento de Sistemas ✨<br> <h3>🖥️ Empreendedor ✨ | 🖥️ Java Developer Jr. | 🖥️ Assistente Analista Dados Jr. | 🖥️ Web Developer Jr.  <br><br>
 <div align="center">
   <a href="https://github.com/Carlosaleee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosaleee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
