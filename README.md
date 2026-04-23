@@ -21,16 +21,6 @@
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlosaleee/Carlosaleee/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlosaleee/Carlosaleee/output/github-contribution-grid-snake.svg">
-    <img alt="Github Contribution Snake Animation" src="https://raw.githubusercontent.com/Carlosaleee/Carlosaleee/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://instagram.com/carlos_aleee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a href="mailto:alexandregularte013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
