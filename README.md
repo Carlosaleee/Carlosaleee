@@ -1,11 +1,11 @@
-<div align="left">
-  <h2> ✨ CARLOS ALEXANDRE ✨ - 📚 Universitário | 🖥️ Técnico em Desenvolvimento de Sistemas ✨</h2>
-  <h3>🖥️ Empreendedor ✨ | 🖥️ Java Developer Jr. | 🖥️ Assistente Analista Dados Jr. | 🖥️ Web Developer Jr.</h3>
+<div align="center">
+  <h3> ✨ CARLOS ALEXANDRE ✨ - 📚 Universitário | 🖥️ Técnico em Desenvolvimento de Sistemas ✨</h3>
+  <h4>🖥️ Empreendedor ✨ | 🖥️ Java Developer Jr. | 🖥️ Assistente Analista Dados Jr. | 🖥️ Web Developer Jr.</h4>
 </div>
 
 <br>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Carlosaleee">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosaleee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosaleee&layout=compact&langs_count=7&theme=dracula"/>
@@ -14,13 +14,13 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   <img alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img alt="MySQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"><img alt="Java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"><img alt="Git" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"><img alt="Spring" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"><img alt="VS Code" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
 </div>
 
 <br>
 
-<div align="left">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlosaleee/Carlosaleee/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlosaleee/Carlosaleee/output/github-contribution-grid-snake.svg">
