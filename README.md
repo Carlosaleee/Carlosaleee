@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> ✨ CARLOS ALEXANDRE - Empreendedor ✨✨✨</h3>
+  <h3> ✨ CARLOS ALEXANDRE - FULL STACK DEVELOPER ✨✨✨</h3>
   <h4>🖥️ | FORMAÇÃO ACADEMICA 🖥️</h4>
   <h3>🖥️ | 🖥️📚 Técnologo em Analise e Desenvolvimento de Sistemas 🖥️📚🖥️</h3>
   <h3>🖥️ | 🖥️📚 Técnico em Desenvolvimento de Sistemas 📚🖥️</h3>
