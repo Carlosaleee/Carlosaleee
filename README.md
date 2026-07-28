@@ -1,6 +1,14 @@
 <div align="center">
-  <h3> ✨ CARLOS ALEXANDRE ✨ - 📚 Universitário | 🖥️ Técnico em Desenvolvimento de Sistemas ✨</h3>
-  <h4>🖥️ Empreendedor ✨ | 🖥️ Java Developer Jr. | 🖥️ Assistente Analista Dados Jr. | 🖥️ Web Developer Jr.</h4>
+  <h3> ✨ CARLOS ALEXANDRE - Empreendedor ✨✨✨</h3>
+  <h4>🖥️ | FORMAÇÃO ACADEMICA 🖥️</h4>
+  <h3>🖥️ | 🖥️📚 Técnologo em Analise e Desenvolvimento de Sistemas 🖥️📚🖥️</h3>
+  <h3>🖥️ | 🖥️📚 Técnico em Desenvolvimento de Sistemas 📚🖥️</h3>
+  <h5>🖥️ | FORMAÇÃO TÉCNICA 🖥️</h5>
+  <h4>🖥️ | Java ✨🖥️ | Java Script ✨🖥️ | Node ✨🖥️ | Api ✨🖥️ | ApiRest ✨🖥️ </h4>
+  <h4>🖥️ | Html ✨🖥️ | Css ✨🖥️ | React ✨🖥️ | BootStrap ✨🖥️</h4>
+  <h4>🖥️ | Postgree ✨🖥️ | Mysql ✨🖥️ | Mongo ✨🖥️ | H2 ✨🖥️</h4>
+  <h4>🖥️ | NoCode ✨🖥️ | IA Generativas ✨🖥️ | Agentes ✨🖥️ | Automação ✨🖥️ </h4>
+  <h4>🖥️ | Docker ✨🖥️ | Linux ✨🖥️ | Kubernates ✨🖥️ | Cloud ✨🖥️ </h4>
 </div>
 
 <br>
